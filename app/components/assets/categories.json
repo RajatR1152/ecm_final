@@ -1,0 +1,47 @@
+[
+    {
+        "category": "electronics",
+        "image": "https://www.pikpng.com/pngl/b/89-891629_electronic-png-transparent-images-electrical-home-appliances-png.png",
+        "description": "Cutting-edge gadgets and devices designed to make life smarter, faster, and more connected."
+    },
+    {
+        "category": "earphones",
+        "image": "https://www.pngmart.com/files/23/Earbuds-PNG-Image.png",
+        "description": "Crystal-clear sound and deep bass to keep your music and calls immersive wherever you go."
+    },
+    {
+        "category": "mobiles",
+        "image": "https://www.pngplay.com/wp-content/uploads/6/Apple-IPhone-PNG-Photos-Background-PNG-Image.png",
+        "description": "Stay connected and entertained with the latest smartphones packed with advanced features."
+    },
+    {
+        "category": "laptops",
+        "image": "https://www.netlabindia.com/wp-content/uploads/2019/05/HP-Laptop-PNG-Image.png",
+        "description": "Powerful and portable computing solutions for work, study, and entertainment."
+    },
+    {
+        "category": "clothing",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/047/249/331/small_2x/sweater-shirt-hoodie-isolated-png.png",
+        "description": "Trendy, comfortable, and versatile apparel for every season and occasion."
+    },
+    {
+        "category": "shoes",
+        "image": "https://www.pngmart.com/files/1/Nike-Shoes-Transparent-PNG.png",
+        "description": "Stylish and durable footwear crafted for comfort, performance, and personality."
+    },
+    {
+        "category": "home appliances",
+        "image": "https://png.pngtree.com/png-clipart/20230824/original/pngtree-kitchen-electric-appliances-and-modern-supplies-picture-image_8436503.png",
+        "description": "Smart and efficient appliances to simplify daily chores and enhance your home."
+    },
+    {
+        "category": "furniture",
+        "image": "https://www.pngarts.com/files/7/Modern-Furniture-Transparent-Images.png",
+        "description": "Beautifully crafted pieces to add style, comfort, and function to your living space."
+    },
+    {
+        "category": "toys",
+        "image": "https://png.pngtree.com/png-clipart/20241124/original/pngtree-kids-toys-png-image_17289992.png",
+        "description": "Fun and educational toys that spark imagination and joy in every age group."
+    }
+]
