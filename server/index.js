@@ -31,6 +31,11 @@ const conn = mongoose.connect('mongodb+srv://rajatrandai7:RajatR1152@cluster0.uu
     console.log("connection successfull");
 })
 
+
+app.get('/x',(req,res)=>{
+    res.send("ok");
+})
+
 app.post('/login', (req, res) => {
 
     user.findOne({ email: req.body.data.email }).then(async (d) => {
